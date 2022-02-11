@@ -1,23 +1,20 @@
-# Проект: Путешествие по России
+# Russian travel
 
-### Обзор
-* Интро
-* Figma
-* Картинки
+## INTRO
+RUSSIAN TRAVEL is a web application which gives you an idea how to travel across the country with no traveling passport or not spending a lot of money for your trip. It widely shows how beautiful and unexpectable diverse could be your own country.
 
-**Интро**
+## __Requirements and technologies__
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+In that project you will learn a lot of different technologies, such a  HTML, BEM, CSS, flexbox, grid, key-frames etc.
 
-**Figma**
+## __Partners__
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+### [КУРШСКАЯ КОСА](http://park-kosa.ru)
+### [КОЛЬСКИЙ](https://yourshot.nationalgeographic.com/photos/?keywords=kolskiy)
+### [АЛТАЙ](https://www.facebook.com/vera.bashmakova/posts/10156011613718822)
+### [БАЙКАЛ](https://vk.com/baikalmile)
+### [КАРЕЛИЯ](http://vodlozero.ru)
 
-**Картинки**
+>Thank you for your patience, dear reviewer.
 
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
-
-Удачи!
+:tractor:

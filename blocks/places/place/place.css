@@ -1,0 +1,25 @@
+.place {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  column-gap: 40px;
+  padding: 0 148px;
+  margin: 0 auto;
+  margin-bottom: 80px;
+}
+@media (max-width: 1024px) {
+  .place {
+    padding: 0 48px;
+  }
+}
+@media (max-width: 768px) {
+  .place {
+    padding: 0 24px;
+  }
+}
+@media (max-width: 320px) {
+  .place {
+    padding: 0;
+  }
+}

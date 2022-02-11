@@ -1,0 +1,15 @@
+.cover {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 60vw;
+  margin-top: 92px;
+}
+
+@media (min-width: 1280px) {
+  .cover {
+    margin-left: 48px;
+    margin-right: 48px;
+  }
+}

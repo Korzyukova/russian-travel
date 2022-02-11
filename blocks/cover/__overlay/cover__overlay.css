@@ -1,0 +1,14 @@
+.cover__overlay {
+  background: linear-gradient(rgba(42, 44, 47, 0.3), rgba(2, 4, 7, 0.3)),
+    url(../../../images/sprint-3-images/cover-trains.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.cover__overlay:hover {
+  background: linear-gradient(rgba(42, 44, 47, 0.6), rgba(42, 44, 47, 0.6)),
+    url(../../../images/sprint-3-images/cover-trains.jpg);
+  background-size: cover;
+  background-position: center;
+}
