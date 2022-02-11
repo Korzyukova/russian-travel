@@ -5,7 +5,6 @@
 }
 @media (max-width: 1024px) {
   .lead__column_image {
-    margin-top: 56px;
     max-width: 928px;
     margin-top: 56px;
   }
