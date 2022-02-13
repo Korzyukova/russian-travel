@@ -13,6 +13,12 @@
     font-size: 16px;
     line-height: 163%;
   }
+  .place__paragraph:first-child {
+    margin-bottom: 25px;
+  }
+  .place__paragraph:last-child {
+    margin-bottom: 0px;
+  }
 }
 @media (max-width: 425px) {
   .place__paragraph {
@@ -21,6 +27,9 @@
     padding-left: 16px;
     padding-right: 16px;
   }
+  .place__paragraph:first-child {
+    margin-bottom: 25px;
+  }
 }
 @media (max-width: 320px) {
   .place__paragraph {
@@ -28,5 +37,11 @@
     line-height: 163%;
     padding-left: 16px;
     padding-right: 16px;
+  }
+  .place__paragraph:first-child {
+    margin-bottom: 25px;
+  }
+  .place__paragraph:last-child {
+    margin-bottom: 0px;
   }
 }

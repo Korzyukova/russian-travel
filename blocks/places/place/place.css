@@ -16,10 +16,12 @@
 @media (max-width: 768px) {
   .place {
     padding: 0 24px;
+    margin-bottom: 72px;
   }
 }
 @media (max-width: 320px) {
   .place {
     padding: 0;
+    margin-bottom: 50px;
   }
 }

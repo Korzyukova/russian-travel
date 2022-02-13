@@ -5,3 +5,8 @@
 .place__link:hover {
   opacity: 0.5;
 }
+@media (max-width: 320px) {
+  .place__link {
+    padding-bottom: 32px;
+  }
+}

@@ -9,6 +9,8 @@
 @media (max-width: 768px) {
   .header {
     padding-top: 28px;
+    padding-left: 24px;
+    padding-right: 24px;
   }
 }
 @media (max-width: 767px) {

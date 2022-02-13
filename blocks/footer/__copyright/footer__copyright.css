@@ -8,6 +8,14 @@
   line-height: 16px;
   color: #ffffff;
 }
+@media (max-width: 714px) {
+  .footer__copyright {
+    padding-top: 48px;
+    text-align: left;
+    font-size: 14px;
+    line-height: 14px;
+  }
+}
 @media (max-width: 320px) {
   .footer__copyright {
     padding-top: 48px;

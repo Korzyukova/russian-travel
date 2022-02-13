@@ -12,6 +12,7 @@
   .place__title {
     font-size: 42px;
   }
+  }
 }
 @media (max-width: 515px) {
   .place__title {
@@ -22,5 +23,6 @@
   .place__title {
     padding-left: 16px;
     font-size: 32px;
+    padding-bottom: 32px;
   }
 }

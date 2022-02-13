@@ -8,6 +8,13 @@
   text-decoration: none;
   color: #ffffff;
 }
+@media (max-width: 600px) {
+  .header__lang-link {
+    margin-top: 30px;
+    font-size: 20px;
+    line-height: 22px;
+  }
+}
 @media (max-width: 320px) {
   .header__lang-link {
     margin-top: 30px;
