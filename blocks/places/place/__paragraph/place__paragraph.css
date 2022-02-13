@@ -14,6 +14,14 @@
     line-height: 163%;
   }
 }
+@media (max-width: 425px) {
+  .place__paragraph {
+    font-size: 16px;
+    line-height: 163%;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}
 @media (max-width: 320px) {
   .place__paragraph {
     font-size: 16px;

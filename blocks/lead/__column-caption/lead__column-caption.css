@@ -1,4 +1,4 @@
-.lead__column_caption {
+.lead__column-caption {
   font-style: normal;
   font-weight: normal;
   font-size: 10px;
@@ -8,12 +8,12 @@
   color: #ffffff;
 }
 @media (max-width: 768px) {
-  .lead__column_caption {
+  .lead__column-caption {
     padding-left: 24px;
   }
 }
 @media (max-width: 320px) {
-  .lead__column_caption {
+  .lead__column-caption {
     padding-left: 16px;
   }
 }

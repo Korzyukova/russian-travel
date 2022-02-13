@@ -13,6 +13,11 @@
     column-gap: 28px;
   }
 }
+@media (max-width: 425px) {
+  .place__row {
+    flex-wrap: wrap;
+  }
+}
 @media (max-width: 320px) {
   .place__row {
     flex-wrap: wrap;

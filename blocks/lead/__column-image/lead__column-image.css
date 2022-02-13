@@ -1,22 +1,22 @@
-.lead__column_image {
+.lead__column-image {
   max-width: 984px;
   width: 100%;
   margin-top: 64px;
 }
 @media (max-width: 1024px) {
-  .lead__column_image {
+  .lead__column-image {
     max-width: 928px;
     margin-top: 56px;
   }
 }
 @media (max-width: 768px) {
-  .lead__column_image {
+  .lead__column-image {
     max-width: 768px;
     width: 100%;
   }
 }
 @media (max-width: 320px) {
-  .lead__column_image {
+  .lead__column-image {
     max-width: 320px;
     width: 100%;
     margin-top: 40px;
