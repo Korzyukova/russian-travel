@@ -24,7 +24,7 @@
   .photo-grid {
     grid-template-columns: repeat(auto-fill, minmax(288px, 1fr));
     grid-gap: 16px 16px;
-    padding: 88px 24px 0px;
+    padding: 88px 16px 0px;
   }
 }
 @media (max-width: 320px) {
