@@ -13,7 +13,6 @@
     font-size: 42px;
   }
   }
-}
 @media (max-width: 515px) {
   .place__title {
     font-size: 32px;
