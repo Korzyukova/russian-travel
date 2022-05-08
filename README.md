@@ -7,14 +7,5 @@ RUSSIAN TRAVEL is a web application which gives you an idea how to travel across
 
 In that project you will learn a lot of different technologies, such a  HTML, BEM, CSS, flexbox, grid, key-frames etc.
 
-## __Partners__
-
-### [КУРШСКАЯ КОСА](http://park-kosa.ru)
-### [КОЛЬСКИЙ](https://yourshot.nationalgeographic.com/photos/?keywords=kolskiy)
-### [АЛТАЙ](https://www.facebook.com/vera.bashmakova/posts/10156011613718822)
-### [БАЙКАЛ](https://vk.com/baikalmile)
-### [КАРЕЛИЯ](http://vodlozero.ru)
-
->Thank you for your patience, dear reviewer.
 
 :tractor:
